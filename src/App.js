@@ -1,7 +1,8 @@
 import './App.css';
-// import Pr1 from './Pr1_circlet';
 import Pr2 from './Pr2_explorer';
 import Home from './pages/Home.js'
+import About from './pages/About'
+import Services from './pages/Services'
 import Contact from './pages/Contact';
 import{
   Routes, Route
@@ -14,13 +15,14 @@ const App = () => {
   
   return (
     <div className="App">
-        {/* <Pr1/> */}
-        <Pr2/>
+        {/* <Pr2/> */}
         {/* <Exam1/> */}
-      {/* <Routes>
+      <Routes>
         <Route path='/Home' element={<Layout><Home/></Layout>}  />
-        <Route path="/Contact" element={<Contact/>} />
-      </Routes> */}
+        <Route path='/About' element={<Layout><About/></Layout>}  />
+        <Route path='/Services' element={<Layout><Services/></Layout>}  />
+        <Route path="/Contact" element={<Layout><Contact/></Layout>} />
+      </Routes>
         
     </div>
   );

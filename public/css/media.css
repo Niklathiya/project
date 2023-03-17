@@ -1,0 +1,1237 @@
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}
+
+
+
+@media (max-width: 1399px) {
+}
+
+/* ==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+*/
+
+
+@media (max-width: 1199px) {
+  /* ============ HOME ============ */
+  /* ========= banner ========= */
+  .banner_space{
+    padding: 15px 20px;
+    margin-bottom: 70px;
+  }
+  .media_heading{
+    font-size: 42px;
+    line-height: 46px;
+  }
+  .text_bg{
+    background-position: center;
+  }
+  .pr_100{
+    padding-right: 70px;
+  }
+  .banner_imgspace{
+    padding: 60px 0px 0px 0px;
+  }
+  .banner_box{
+    width: 450px;
+    height: 450px;
+  }
+  .banner_img{
+    width: 450px;
+    height: 450px;
+  }
+  .banner_bg::before{
+    top: -2%;
+    left: -15%;
+    width: 650px;
+    height: 600px;
+    transform: scale(0.80);
+  }
+  .bg_img{
+    left: -5%;
+  }
+  .bg_dot{
+    top: 78%;
+    left: 8.2%;
+  }
+  .bg_dot1{
+    top: 13.5%;
+    left: 57.5%;
+  }
+  .banner_bg:hover .bg_dot{
+    top: 90%;
+    left: 15.6%;
+    opacity: 1;
+  }
+  .banner_bg:hover .bg_dot1{
+    top: 12%;
+    left: 70%;
+    opacity: 1;
+  }
+
+  /* ========= counter ========= */
+  .count_img{
+    width: 150px;
+  }
+  .count{
+    padding-left: 10px;
+    margin: 100px 0px 0px 30px;
+  } 
+  .count2{
+    margin: 100px 0px 0px 44px;
+  }
+  .count3{
+    margin: 100px 0px 0px 60px;
+  }
+  .count4{
+    margin: 100px 0px 0px 60px;
+  }
+  .count h2{
+    font-size: 30px;
+  }
+  .count span{
+    font-size: 30px;
+  }
+  .count_rel p{
+    top: 55%;
+    left: 5%;
+    font-size: 16px;
+  }
+
+  /* ========= Who We Are ? ========= */
+  .media_34{
+    font-size: 34px;
+    line-height: 45px;
+  }
+  .padding_60{
+    padding: 10px;
+  }
+
+  /* ========= What We DO ========= */
+  .what_space{
+    padding: 20px;
+    margin-top: 50px;
+  }
+  .what_we{
+    padding-right: 50px;
+  }
+  .card{
+    height: 250px;
+  }
+
+  /* ========= What we offer ========= */
+  .offer_img{ 
+    top: -100px;
+    left: -20%;
+    transform: scaleY(0.8);
+    height: 550px;
+    width: 500px;
+  }
+  .offer_space{
+    margin-left: 100px;
+  }
+  .media_whatrow{
+    width: 914px;
+  }
+
+  /* ========= How we work ========= */
+  .margin_top{
+    margin-top: 40px;
+  }
+  .how_para{
+    padding: 0px 0px;
+  }
+  .work_card{
+    margin-top: 80px;
+    height: 420px;
+  }
+  .how_design::before{
+    left: -5%;
+  }
+
+  /* ========= Digital Products ========= */
+  .product_bg {
+    padding: 100px 105px;
+  }
+
+  /* ========= Why Choose US ========= */
+  .why_us{
+    padding: 0px 0px;
+  }
+
+  /* ========= Client Testimonials ========= */
+  .carousel_btn{
+    margin-top: -40px;
+  }
+
+  /* ========= Our Blog ========= */
+  .our_blog{
+    padding: 0px 20px;
+  }
+  .blog_card{
+    height: 615px;
+  }
+  .blog_img{
+    transform: scale(1);
+  }
+
+  /* ========= Let’s Discuss Your Project ========= */
+  .form_space{
+    padding: 0px 20px;
+  }
+  .project_bg{
+    margin: 0px 50px;
+  }
+
+  /* ========= Footer ========= */
+  footer{
+    padding: 123px 20px 87px 20px;
+  }
+
+
+  /* ============ ABOUT US ============ */
+  /* ========= banner ========= */
+  .media_pr{
+    padding-right: 0px;
+  }
+
+  /* ========= digital Solution ========= */
+  .digital_space{
+    padding: 50px 20px 0px;
+  }
+  .digital_imgbox img{
+    width: 500px;
+    height: 450px;
+  }
+  .digital_bgimg::before{
+    top: -50px;
+    left: -50px;
+    transform: scale(0.7);
+  }
+  .digi_dot2{
+    right: 6%;
+    top: 22%;
+  }
+  .digital_imgbox:hover .digi_dot2{
+    top: 30%;
+    right: -1%;
+  }
+  .digi_dot3{
+    left: 40%;
+    bottom: -22%;
+  }
+  .digital_imgbox:hover .digi_dot3{
+    left: 25%;
+    bottom: -20%;
+  }
+
+  /* ========= Philosophy ========= */
+  .media_philosophy_space{
+    padding: 50px 10px;    
+  }
+  .philosophy_box{
+    width: 400px;
+    height: 400px;
+  }
+  .exp_sticker{
+    top: -20%;
+  }
+  .business_lable{
+    width: 300px;
+  }
+  .border_circle{
+    top: 70%;
+    left: 81%;
+  }
+  .philosophy_hover:hover .border_circle{
+    top: 65%;
+    left: 86%;
+  }
+  .padding_right_100{
+    padding-right: 50px;
+  }
+
+  /* ========= Digital Product ========= */
+  .digi_heading{
+    padding: 40px 150px 0px 150px;
+  }
+
+  /* ========= Value System at Xcodethemes ========= */
+  .value_space{
+    padding: 80px 40px;
+    margin-top: 60px;
+  }
+  .value_card{
+    height: 500px;
+  }
+
+  /* ========= our team ========= */
+  .team_img{
+    left: -10%;
+    width: 450px;
+  }
+  .ourteam_space{
+    padding: 150px 0px 100px 0px;
+    margin-left: 400px;
+    margin-right: 100px;
+  }
+
+  /* ========= team member ========= */
+  .member_space{
+    padding: 0px 20px;
+  }
+  .divison img{
+    width: 340px;
+    height: 440px;
+  }
+  .overlay{ 
+    width: 228px;
+    height: 100%;
+  }
+
+  /* ========= Let’s Get Connected ========= */
+  .let_space{
+    padding: 100px 150px 80px;
+  }
+
+  /* ============ SERVICES ============= */
+  /* ========= Banner ========= */
+  .service_banner_space{
+    padding: 19px 20px 32px;
+  }
+  .service_banner_img{
+    padding: 0px 0px 0px 40px;
+    margin-top: 100px;
+  }
+
+  /* ========= Solutions for Businesses ========= */
+  .solution_card{
+    height: 500px;
+    padding: 80px 40px 10px;
+    margin-top: 80px;
+  }
+  .solution_design::before{
+    width: 100%;
+    height: 600px;
+    left: -7.5%;
+    top: 40%;
+  }
+
+  /* ========= Working Process ========= */
+  .working_bg{
+    background-position: top center;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+  }
+  .media_remove_working{
+    margin-left: 0px!important;
+  }
+  .working_box{
+    padding: 170px 0px 0px 0px;
+  }
+  .working_border::after{
+    height: 700px;
+    margin-top: 30px;
+  }
+
+  /* ========= Discuss Project ========= */
+  .discuss_space{
+    padding: 195px 20px 195px 20px;
+  }
+  .discuss_img{
+    top: -400px;
+    right: -20px;
+    width: 300px;
+  }
+  .discuss_space p{
+    padding-right: 300px;
+  }
+
+  /* ============ CONTACT US ============ */
+  /* ========= Get In Touch ========= */
+  .get_space{
+    padding: 0px 40px;
+  }
+  .get_info{
+    padding: 50px 0px 50px 50px;
+  }
+  .get_formspace{
+    padding-left: 15px;
+  }
+  .media_form_mt{
+    margin-top: 20px;
+  }
+  .media_form_btn{
+    margin: 0px auto;
+  }
+}
+
+/* ==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+*/
+@media (max-width: 991px) {
+  /* ============ HOME ============ */
+  /* ========= header ========= */
+  .logo{
+    width: 15%;
+  }
+  /* ========= banner ========= */
+  .banner_space{
+    padding: 15px 10px;
+  }
+  .text_bg{
+    left: -10%;
+  }
+  .media_banner_width{
+    width: 768px;
+  }
+  .banner_imgspace{
+    padding: 0px;
+    align-self: center;
+  }
+  .banner_box{
+    width: 350px;
+    height: 350px;
+  }
+  .text_space{
+    margin-top: 30px;
+  }
+  .banner_img{
+    width: 350px;
+    height: 350px;
+  }
+  .banner_bg::before{
+    top: -2%;
+    left: -35%;
+    width: 600px;
+    height: 600px;
+    transform: scale(0.50);
+  }
+  .bg_img{
+    left: -10%;
+  }
+  .bg_dot{
+    width: 10px;
+    height: 10px;
+    top: 88%;
+    left: 11.5%; 
+  }
+  .banner_bg:hover .bg_dot{
+    top: 96%;
+    left: 17%;
+    opacity: 1;
+  }
+  .bg_dot1{
+    top: 12%;
+    left: 58%;
+  }
+  .banner_bg:hover .bg_dot1{
+    top: 12%;
+    left: 70%;
+    opacity: 1;
+  }
+  
+  /* ========= counter ========= */
+  .counter_items{
+    column-gap: 0px;
+  }
+  .count_img{
+    width: 150px;
+    height: 200px;
+  }
+  .count3{
+    margin: 100px 0px 0px 55px;
+  }
+  .count4{
+    margin: 100px 0px 0px 55px;
+  }
+  .count h2{
+    font-size: 28px;
+  }
+  .count span{
+    font-size: 28px;
+  }
+  .count_rel p{
+    top: 60%;
+    left: -4%;
+    font-size: 15px;
+  }
+
+  /* ========= Who We Are ? ========= */
+  .media_30{
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .play_icon{
+    top: calc(50% - 80px);
+  }
+  .who_bg::before{
+    background-size: cover;
+    width: 350px;
+    height: 350px;
+    left: -2%;
+  }
+  .media_whowe{
+    margin-top: 150px;
+  }
+
+  /* ========= What We DO ========= */
+  .what_space{
+    padding: 20px;
+  }
+  .what_we{
+    padding-right: 40px;
+  }
+  .media_16{
+    font-size: 16px;
+  }
+  .card{
+    padding-bottom: 20px!important;
+    height: 220px;
+  }
+
+  /* ========= What we offer ========= */
+  .offer_img{ 
+    top: -100px;
+    left: -35%;
+    transform: scaleY(0.8);
+    height: 550px;
+    width: 500px;
+  }
+  .offer_space{
+    margin-left: 0px;
+  }
+  .media_whatrow{
+    width: 758px;
+  }
+  .media_block{
+    visibility: visible;
+    width: 25%;
+  }
+  .media_we_ms{
+    margin-left: 110px;
+  }
+  
+  /* ========= How we work ========= */
+  .how_space{
+    padding: 40px 60px 80px;
+  }
+  .work_card{
+    margin-top: 50px;
+    height: 300px;
+  }
+
+  /* ========= Digital Products ========= */
+  .product_bg {
+    padding: 80px 20px;
+  }
+
+  /* ========= Why Choose US ========= */
+  .why_us{
+    padding: 0px 0px;
+  }
+  .media_how_mt{
+    margin-top: 40px;
+  }
+  
+  /* ========= Client Testimonials ========= */
+  .carousel_btn{
+    margin-top: -20px;
+  }
+
+  /* ========= Our Blog ========= */
+  .blog_card{
+    height: 585px;
+  }
+  .media_blog_mt{
+    margin-top: 20px;
+  }
+  
+  /* ========= Footer ========= */
+  footer{
+    padding: 100px 20px 80px 20px;
+  }
+  .media_footer_mt{
+    margin-top: 20px;
+  }
+  
+
+  /* ============ ABOUT US ============ */
+  /* ========= banner ========= */
+  .about_banner_img{
+    padding: 50px 0px 0px 0px;
+  }
+
+  /* ========= digital Solution ========= */
+  .digital_space{
+    padding: 50px 10px 0px;
+  }
+  .digital_imgbox img{
+    width: 400px;
+    height: 350px;
+  }
+  .digital_bgimg::before{
+    top: -150px;
+    left: -110px;
+    transform: scale(0.5);
+  }
+  .digi_dot2{
+    right: 6%;
+    top: 15%;
+  }
+  .digital_imgbox:hover .digi_dot2{
+    top: 30%;
+    right: -1%;
+  }
+  .digi_dot3{
+    left: 40%;
+    bottom: -9%;
+  }
+  .digital_imgbox:hover .digi_dot3{
+    left: 25%;
+    bottom: -7%;
+  }
+  
+  /* ========= Philosophy ========= */
+  .philosophy_box{
+    width: 300px;
+    height: 300px;
+  }
+  .media_remove{
+    padding-left: 20px!important;
+  }
+  .exp_sticker{
+    top: -15%;
+    left: 20%;
+    width: 100px;
+  }
+  .business_lable{
+    width: 200px;
+  }
+  .border_circle{
+    left: 74%;
+  }
+  .philosophy_hover:hover .border_circle{
+    top: 62%;
+    left: 84%;
+  }
+  .padding_right_100{
+    padding-right: 0px;
+  }
+
+  /* ========= Digital Product ========= */
+  .digi_product{
+    padding: 100px 20px 200px 20px;
+  }
+  .digi_heading{
+    padding: 40px 80px 0px 80px;
+  }
+
+  /* ========= Value System at Xcodethemes ========= */
+  .value_space{
+    padding: 80px 40px;
+    margin-top: 60px;
+  }
+  .value_card{
+    height: 350px;
+  }
+  .media_value_pt{
+    padding-top: 20px;
+  }
+
+  /* ========= our team ========= */
+  .team_img{
+    left: -15%;
+  }
+  .ourteam_space{
+    padding: 150px 0px 100px 0px;
+    margin-left: 350px;
+    margin-right: 50px;
+  }
+
+  /* ========= team member ========= */
+  .member_space{
+    padding: 0px 20px;
+  }
+  .overlay{ 
+    width: 340px;
+  }
+  .media_mt10{
+    margin-top: 20px;
+  }
+
+  /* ========= Let’s Get Connected ========= */
+  .connect_space{
+    padding: 0px 40px;
+  }
+  .let_space{
+    padding: 50px 50px 80px;
+  }
+
+  /* ============ SERVICES ============= */
+  /* ========= Banner ========= */
+  .service_banner_space{
+    padding: 19px 20px 32px;
+  }
+  .service_banner_img{
+    padding: 0px 0px 0px 150px;
+    margin-top: 100px;
+  }
+
+  /* ========= Solutions for Businesses ========= */
+  .solution_card{
+    height: 600px;
+    padding: 60px 40px 10px;
+  }
+  .solution_design::before{
+    height: 600px;
+    left: -10%;
+  }
+
+  /* ========= Working Process ========= */
+  .working_border::after{
+    height: 780px;
+    margin-top: 30px;
+  }
+  .working_space{
+    padding: 100px 20px;
+  }
+  .working_border::before{
+    width: 650px;
+    top: 52%;
+  }
+
+  /* ========= Discuss Project ========= */
+  .discuss_img{
+    width: 250px;
+  }
+  .discuss_space p{
+    padding-right: 300px;
+  }
+
+  /* ============ CONTACT US ============ */
+  /* ========= Banner ========= */
+  .media_contact_banner{
+    padding-left: 50px;
+  }
+  .media_col_remove{
+    padding-right: 0px;
+  }
+  .media_con_head{
+    font-size: 36px;
+  }
+
+  /* ========= Get In Touch ========= */
+  .get_space{
+    padding: 0px 20px;
+  }
+  .get_info{
+    padding: 50px 0px 50px 20px;
+  }
+}
+
+
+/* ==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+*/
+@media (max-width: 767px) {
+  /* ============ HOME ============ */
+  /* ========= header ========= */
+  .logo{
+    width: 25%;
+  }
+  /* ========= banner ========= */
+  .banner_space{
+    padding: 15px 15px;
+  }
+  .media_banner_width{
+    width: 425px;
+  }
+  .pr_100{
+    padding-right: 0px;
+  }
+  .banner_bg::before{
+    top: -2%;
+    left: -35%;
+    transform: scale(0.50);
+  }
+  .bg_img{
+    transform: scale(.8);
+  }
+  .bg_dot{
+    top: 88%;
+    left: 8%; 
+  }
+  .banner_bg:hover .bg_dot{
+    top: 96%;
+    left: 14%;
+    opacity: 1;
+  }
+  .bg_dot1{
+    top: 12%;
+    left: 48%;
+  }
+  .banner_bg:hover .bg_dot1{
+    top: 12%;
+    left: 60%;
+    opacity: 1;
+  }
+
+  /* ========= counter ========= */
+  .media_count{
+    width: max-content;
+  }
+  .count_img{
+    width: 130px;
+    height: 130px;
+  }
+  .count{
+    margin: 90px 0px 0px 30px;
+  } 
+  .count2{
+    margin: 90px 0px 0px 44px;
+  }
+  .count3{
+    margin: 90px 0px 0px 50px;
+  }
+  .count4{
+    margin: 90px 0px 0px 50px;
+  }
+  .count h2{
+    font-size: 24px;
+  }
+  .count span{
+    font-size: 24px;
+  }
+  .count_rel p{
+    top: 70%;
+    left: -5%;
+    font-size: 15px;
+    width: 150px;
+  }
+
+  /* ========= Who We Are ? ========= */
+  .media_26{
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .play_icon{
+    top: calc(50% - 100px);
+  }
+  .who_img{
+    width: 350px;
+  }
+  .who_vid{
+    filter: brightness( 80% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+  }
+  .media_whowe{
+    margin-top: 20px;
+  }
+
+  /* ========= What we offer ========= */
+  .offer_img{ 
+    display: block;
+    visibility: hidden;
+  }
+  .media_whatrow{
+    width: 415px;
+  }
+  .media_we_ms{
+    margin-left: 0px;
+  }
+  .media_24{
+    font-size: 24px;
+  }
+  .media_row_line{
+    width: 50%;
+    padding: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .media_block{
+    width: 0%;
+    padding: 0px;
+  }
+  .media_remove_mt{
+    margin: 0px!important;
+  }
+
+  /* ========= How we work ========= */
+  .how_space{
+    padding: 40px 10px 80px;
+  }
+  .work_card{
+    margin-top: 30px;
+  }
+  .how_design::before{
+    width: 0px;
+    display: block;
+    visibility: hidden;
+  }
+  .media_how_width{
+    width: 425px;
+  }
+
+  /* ========= Digital Products ========= */
+  .product_bg {
+    padding: 80px 18px;
+  }
+
+  /* ========= Why Choose US ========= */
+  .why_us{
+    padding: 0px 10px;
+  }
+  .media_whyus_width{
+    width: 425px;
+  }
+
+  /* ========= Client Testimonials ========= */
+  .carousel_btn{
+    top: 0%;
+    left: 80%;
+  }
+  .media_client_space{
+    padding: 60px 0px!important;
+  }
+  .media_client_width{
+    width: 425px;
+  }
+
+  /* ========= Our Blog ========= */
+  .blog_card{
+    height: 585px;
+  }
+  .media_blog_mt2{
+    margin-top: 20px;
+  }
+
+
+  .margin_top2_100{
+    margin-top: 100px;
+  }
+  .margin_top2_80{
+    margin-top: 80px;
+  }
+  .navbar-light .navbar-brand {
+    width: 15%;
+  }
+
+  /* ========= Let’s Discuss Your Project ========= */
+  .form_space{
+    padding: 0px 00px;
+  }
+  .project_bg{
+    margin: 0px 20px;
+  }
+
+  /* ========= Footer ========= */
+  footer{
+    padding: 70px 0px 80px 0px;
+  }
+  .media_footer_mt2{
+    margin-top: 20px;
+  }
+  .media_footer_width{
+    width: 50%;
+  }
+  .nedia_flex{
+    justify-content: flex-start!important;
+  }
+
+  /* ============ ABOUT US ============ */
+  /* ========= banner ========= */
+  .about_banner_space{
+    padding: 19px 15px 32px;
+  }
+  .media_about_pr{
+    padding: 0px!important;
+  }
+
+  /* ========= digital Solution ========= */
+  .digital_space{
+    padding: 40px 10px 0px;
+  }
+  .digital_imgbox img{
+    padding-left: 0px;
+  }
+  .digital_bgimg::before{
+    transform: scale(0.5);
+  }
+  .digi_dot2{
+    right: 10%;
+    top: 15%;
+  }
+  .digital_imgbox:hover .digi_dot2{
+    top: 30%;
+    right: 6%;
+  }
+  .digi_dot3{
+    left: 40%;
+    bottom: -8%;
+  }
+  .digital_imgbox:hover .digi_dot3{
+    left: 25%;
+    bottom: -7%;
+  }
+
+  /* ========= Philosophy ========= */
+  .exp_sticker{
+    left: 10%;
+  }
+  .border_circle{
+    left: 72%;
+    top: 70%;
+  }
+  .philosophy_hover:hover .border_circle{
+    top: 62%;
+    left: 80%;
+  }
+
+  /* ========= Digital Product ========= */
+  .digi_product{
+    padding: 100px 0px 200px 0px;
+  }
+  .digi_heading{
+    padding: 0px 0px 0px 0px;
+  }
+  .media_remove_pb{
+    padding-bottom: 10px!important;
+  }
+
+  /* ========= our team ========= */
+  .team_img{
+    left: -100%;
+    width: 0%;
+  }
+  .ourteam_space{
+    padding: 50px 0px 50px 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  /* ========= team member ========= */
+  .member_space{
+    padding: 0px 20px;
+  }
+  .overlay{ 
+    width: 180px;
+    border-radius: 10px;
+  }
+  .divison img{
+    width: 300px;
+    height: 250px;
+  }
+  .overlay_head span{
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .divison ul li{
+    width: 32px;
+    height: 32px;
+  }
+  .social_icon{
+    font-size: 18px;
+    padding: 7px 0px;
+  }
+
+  /* ========= Let’s Get Connected ========= */
+  .connect_space{
+    padding: 0px 20px;
+  }
+  .let_space{
+    padding: 20px 0px 50px;
+  }
+  .media_form{
+    padding-left: 10px!important;
+    margin-top: 20px;
+  }
+
+  /* ============ SERVICES ============= */
+  /* ========= Banner ========= */
+  .service_banner_img{
+    padding: 0px 0px 0px 50px;
+  }
+
+  /* ========= Solutions for Businesses ========= */
+  .media_remove_sol{
+    padding: 0px 20px!important;
+  }
+  .solution_card{
+    height: 560px;
+    padding-top: 50px;
+  }
+  .solution_design::before{
+    left: -100%;
+    display: block;
+    visibility: hidden;
+  }
+
+  /* ========= Working Process ========= */
+  .working_space{
+    padding: 100px 0px;
+  }
+  .working_border::after{
+    height: 0px;
+  }
+  .working_border::before{
+    width: 0px;
+  }
+  .working_box{
+    padding: 100px 0px 0px 0px;
+  }
+  .media_remove_working{
+    padding-right: 0px!important;
+  }
+  .media_col_remove{
+    width: 370px;
+  }
+  .working_box_1{
+    margin-right: 0px;
+  }
+  .working_box_2{
+    margin-left: 0px;
+  }
+  .working_bg{
+    width: 370px;
+    height: 750px;
+  }
+
+  /* ========= Discuss Project ========= */
+  .discuss_space{
+    padding: 80px 10px 80px 10px;
+  }
+  .discuss_img{
+    width: 0px;
+    display: block;
+    visibility: hidden;
+  }
+  .discuss_space p{
+    padding-right: 0px;
+  }
+}
+
+/* ==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+==============================================================================================
+*/
+
+@media (max-width: 576px) {
+  /* ============ HOME ============ */
+  /* ========= banner ========= */
+  .media_banner_width{
+    width: 370px;
+  }
+  .bg_dot{
+    top: 88%;
+    left: 8%; 
+  }
+  .banner_bg:hover .bg_dot{
+    top: 96%;
+    left: 14%;
+    opacity: 1;
+  }
+  .bg_dot1{
+    top: 12%;
+    left: 48%;
+  }
+  .banner_bg:hover .bg_dot1{
+    top: 12%;
+    left: 60%;
+    opacity: 1;
+  }
+
+  /* ========= Who We Are ? ========= */
+  .who_img{
+    width: 340px;
+  }
+  .who_bg::before{
+    width: 340px;
+    height: 320px;
+  }
+  .media_mt_50{
+    margin-top: 50px;
+  }
+
+  /* ========= What we offer ========= */
+  .media_whatrow{
+    max-width: 370px;
+  }
+  .media_row_line{
+    width: 50%;
+    padding: 0px;
+  }
+  .media_what_space{
+    padding: 0px;
+  }
+
+  /* ========= How we work ========= */
+  .media_how_width{
+    width: 375px;
+  }
+
+  /* ========= Digital Products ========= */
+  .product_bg {
+    padding: 80px 18px;
+  }
+  .digital_btn{
+    width: 300px;
+  }
+
+  /* ========= Why Choose US ========= */
+  .why_us{
+    padding: 0px 10px;
+  }
+  .media_whyus_width{
+    width: 375px;
+  }
+
+  /* ========= Client Testimonials ========= */
+  .carousel_btn{
+    top: 0%;
+    left: 75%;
+  }
+  .media_client_space{
+    padding: 60px 0px!important;
+  }
+  .media_client_width{
+    width: 375px;
+  }
+
+  /* ========= Let’s Discuss Your Project ========= */
+  .form_space{
+    padding: 0px 0px;
+  }
+  .project_bg{
+    margin: 0px 10px;
+  }
+}
+
+@media (max-width: 376px) {
+  /* ========= team member ========= */
+  .overlay{ 
+    width: 160px;
+  }
+}
