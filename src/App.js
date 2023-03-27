@@ -16,14 +16,12 @@ const App = () => {
   return (
     <div className="App">
         <Pr2/>
-        <Exam1/>
       {/* <Routes>
         <Route path='/' element={<Layout><Home/></Layout>}  />
         <Route path='/About' element={<Layout><About/></Layout>}  />
         <Route path='/Services' element={<Layout><Services/></Layout>}  />
         <Route path="/Contact" element={<Layout><Contact/></Layout>} />
       </Routes> */}
-        
     </div>
   );
 }
